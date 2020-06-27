@@ -1,0 +1,2 @@
+# PracticaArrayParImpar
+Ejercicio seis
